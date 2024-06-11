@@ -15,4 +15,4 @@ Please follow the [guidelines](https://github.com/CommunityRadarGG/.github/blob/
 
 ## Security
 If you find a security issue please don't report it in a public issue.
-Please use our form [here](https://github.com/CommunityRadarGG/.github/blob/main/SECURITY.md).
+Please use our form [here](https://github.com/CommunityRadarGG/.github/security/policy/).
